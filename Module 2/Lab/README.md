@@ -1,5 +1,5 @@
 # Задание для модуля 2
-* _Tools used: PostgreSQL, DBeaver, SQLDBM, Amazon Lightsail, Amazon RDS_
+* _Tools used: PostgreSQL, DBeaver, SQLDBM, Amazon Lightsail, Amazon RDS._
 ```
 Результаты домашней работы загружайте к себе в git репозиторий. Создайте папки
 DE-101/Module2/
